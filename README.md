@@ -10,5 +10,11 @@ muti-platform Web application with Deeplearning model and Chat bot
 
 ## Framework in Detail
 ![1](https://github.com/UMJCS/Banatalk_demo/raw/master/images/framework1.jpg)
+### We use tensorflow model to classcification photos and use customvision to collect and tranning our photos.
 ![2](https://github.com/UMJCS/Banatalk_demo/raw/master/images/framework2.jpg)
+### We didn’t use the database existed. Instead, we spider photos of things and snacks prepared by hack.init from website randomly.
+### We also have some  photos taken with our cell phones.
+### You can see that the photos are not that high-quality and Pre-treated
+### But it will not influent the prediction rate of our model.
+
 ![3](https://github.com/UMJCS/Banatalk_demo/raw/master/images/framework3.jpg)
