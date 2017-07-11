@@ -10,3 +10,5 @@ muti-platform Web application with Deeplearning model and Chat bot
 
 ## Framework in Detail
 ![1](https://github.com/UMJCS/Banatalk_demo/raw/master/images/framework1.jpg)
+![2](https://github.com/UMJCS/Banatalk_demo/raw/master/images/framework2.jpg)
+![3](https://github.com/UMJCS/Banatalk_demo/raw/master/images/framework3.jpg)
